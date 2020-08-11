@@ -1,0 +1,12 @@
+create a new model named forms and create a db migration that installs table
+https://laravel.com/docs/7.x/eloquent#defining-models
+https://laravel.com/docs/7.x/migrations
+    id
+    name
+
+add a page to create a new form
+    define route
+    define function in controller class
+    create view with a form that requests a form name input
+add a page to edit an existing form
+add a page to view an existing form
