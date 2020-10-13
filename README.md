@@ -12,6 +12,4 @@ For example,
 if you are a teacher looking to get some feedback from your students on your class - you can create a form and send all of your students the link to fill out the form and they can submit it for your review. 
 
 
-## Upcoming Features
 
-Currently, we are developing an option to export all of your submissions to a form to a .CSV file for Excel. 
